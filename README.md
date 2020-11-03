@@ -1,6 +1,9 @@
 angular-mock-server
 ==============
-### Angular 10 with a simple mock server with NodeJS [Demo](http://tiberiuzuld.github.io/angular-gridster2)
+### Angular 10 with a simple mock server with NodeJS
+A simple mock server with NodeJS for Angular development. Speedup development with mock server (RESTful APIs)
+
+
 
 ### Requires Angular 2.x
 
