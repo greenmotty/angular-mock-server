@@ -74,4 +74,4 @@ Use the mock server in Angular service:
 ### License
  The MIT License
  
- Copyright (c) 2020 Tiberiu Zuld
+ Copyright (c) 2020 Motty Green
