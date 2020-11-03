@@ -11,7 +11,6 @@ export class ExampleService {
 
   constructor(private http: HttpClient) { }
 
-
   public getServerDate(id: number): Observable<Dummy> {
     const url = this.baseUrl;
     return this.http.get<Dummy>(url);

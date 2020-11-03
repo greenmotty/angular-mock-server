@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b979373-1763-4f1d-a04d-b0ee4fa8ee04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/angular-mock-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/.npmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/bin/start-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/mockUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/mocks-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/mocks/dummy.pagination.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-simple-mock-server/src/app/services/example.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-simple-mock-server/src/app/services/example.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock-server/mocks-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/mock-server/mocks-config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jlg0ZAgjyonB3aVfmlr89I2owC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -96,30 +91,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604383870020</updated>
-      <workItem from="1604383871231" duration="7704000" />
+      <workItem from="1604383871231" duration="9387000" />
     </task>
+    <task id="LOCAL‎00001" summary="Initial project, support for mock-server in nodeJS, Simple angular 10 project that uses the mock.">
+      <created>1604397485456</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1604397485456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project, support for mock-server in nodeJS, Simple angular 10 project that uses the mock." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project, support for mock-server in nodeJS, Simple angular 10 project that uses the mock." />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="329" key="GridCell.Tab.0.bottom" timestamp="1604387175752">
+    <state x="422" y="0" key="CommitChangelistDialog2" timestamp="1604397475894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="329" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604387175752" />
-    <state width="1515" height="329" key="GridCell.Tab.0.center" timestamp="1604387175752">
+    <state x="422" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604397475894" />
+    <state width="1515" height="294" key="GridCell.Tab.0.bottom" timestamp="1604397367471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="329" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604387175752" />
-    <state width="1515" height="329" key="GridCell.Tab.0.left" timestamp="1604387175751">
+    <state width="1515" height="294" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604397367471" />
+    <state width="1515" height="294" key="GridCell.Tab.0.center" timestamp="1604397367470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="329" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604387175751" />
-    <state width="1515" height="329" key="GridCell.Tab.0.right" timestamp="1604387175752">
+    <state width="1515" height="294" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604397367470" />
+    <state width="1515" height="294" key="GridCell.Tab.0.left" timestamp="1604397367470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="329" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604387175752" />
+    <state width="1515" height="294" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604397367470" />
+    <state width="1515" height="294" key="GridCell.Tab.0.right" timestamp="1604397367471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="294" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604397367471" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1604397496917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604397496917" />
+    <state x="543" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604397412309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1604397412309" />
     <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1604385792980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -128,10 +146,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="632" y="298" width="348" height="298" key="org.angular.cli.generate/0.0.1536.824@0.0.1536.824" timestamp="1604387211411" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604386784576">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604400853558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604386784576" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604400853558" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

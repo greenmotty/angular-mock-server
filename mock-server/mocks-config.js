@@ -3,7 +3,6 @@ const moment = require('moment');
 const mockUtils = require('./mockUtils');
 
 const urls = {
-    //EXAMPLE
     '/example': {
         'mockJson': 'dummy.pagination',
         GET: function (req, matchedJsonMap, mockJson) {
