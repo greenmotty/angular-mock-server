@@ -1,0 +1,18 @@
+<h1>Click here to get mockup server response</h1>
+<button (click)="getServerData()">Get server data</button>
+
+<h1 *ngIf="response">Response:</h1>
+<div *ngFor="let item of response?.content; index as i">
+  <span id="{{i}}">{{item.template}}</span>
+</div>
+
+<h1 *ngIf="response">JSON format:</h1>
+<pre>{{ response | json}}</pre>
+
+
+<h1>Timer</h1>
+<button (click)="startTimer()">Start timer</button>
+<button (click)="stopTimer()">Stop timer</button>
+<div>
+  <span *ngIf="numbers !== null">{{numbers}}</span>
+</div>
